@@ -1,0 +1,1 @@
+# nvmgm.js

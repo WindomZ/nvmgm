@@ -1,0 +1,27 @@
+{
+  "name": "nvmgm",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "nvmgm": "./bin/nvmgm.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WindomZ/nvmgm.git"
+  },
+  "keywords": [
+    "nvm",
+    "global",
+    "manager"
+  ],
+  "author": "WindomZ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WindomZ/nvmgm/issues"
+  },
+  "homepage": "https://github.com/WindomZ/nvmgm#readme"
+}
